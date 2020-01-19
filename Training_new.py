@@ -1,3 +1,5 @@
+# partly based on code from rohanpillai20
+
 import dataset
 import tensorflow as tf
 import time
